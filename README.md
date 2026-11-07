@@ -4,9 +4,13 @@ Writeups and audits of incidents I have had, and reports of vulnerabilities I st
 
 
 
+
+
 UAF In CSS Report – CVE-2026-2441.pptx
 
 SHA256:    B68E115357F6E02DEC95A382FD71A6D27771663B6D6839072AF92E1E08D30D86
+
+
 
 
 
